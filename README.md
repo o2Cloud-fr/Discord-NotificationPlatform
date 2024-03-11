@@ -6,7 +6,6 @@
 ```
 - [x] Finish Discord-NotificationPlatform
 - [ ] Push my commits to GitHub
-- [ ] Open a pull request
 
 ![App Screenshot](https://i.imgur.com/v5Rvy9f.gif)
 
