@@ -4,14 +4,14 @@
 ```diff
 - Coming soon
 ```
+- [x] Finish Discord-NotificationPlatform
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 ![App Screenshot](https://i.imgur.com/v5Rvy9f.gif)
 
 
 The Discord Notification Platform is a web application that allows users to create and send customized messages on Discord. The application provides a user-friendly interface where users can fill out a form with various fields to create a customized Discord message. Once the form is submitted, the data is sent to a Node.js server which processes the information and sends it via a Discord webhook.
-
-- [x] Finish Discord-NotificationPlatform
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
 
 ## Authors
 
