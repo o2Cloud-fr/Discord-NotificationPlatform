@@ -1,5 +1,5 @@
 
-# Discord-Webhook
+# Discord-NotificationPlatform
 
 ```diff
 - Coming soon
@@ -13,7 +13,7 @@ The Discord Notification Platform is a web application that allows users to crea
 - [@o2Cloud](https://www.github.com/o2Cloud-fr )
 
 ## Screenshots
-Discord-Webhook Embed
+Discord-NotificationPlatform Embed
 ![App Screenshot](https://i.imgur.com/ml7hh23.png)
 
 
@@ -73,7 +73,7 @@ Javascript, Nodejs .
 
 ## Installation
 
-Install Discord-Webhook with npm
+Install Discord-NotificationPlatform with npm
 
 
 ```bash
@@ -83,7 +83,7 @@ Install Discord-Webhook with npm
     
 ## License
 
-[Apache-2.0 license](https://github.com/o2Cloud-fr/Discord-Webhook/blob/main/LICENSE)
+[Apache-2.0 license](https://github.com/o2Cloud-fr/Discord-NotificationPlatform/blob/main/LICENSE)
 
 
 ![Logo](https://o2cloud.fr/logo/o2Cloud.png)
@@ -93,7 +93,7 @@ Install Discord-Webhook with npm
 
 Here are some related projects
 
-[Awesome README](https://github.com/o2Cloud-fr/Discord-Webhook/blob/main/README.md)
+[Awesome README](https://github.com/o2Cloud-fr/Discord-NotificationPlatform/blob/main/README.md)
 
 
 ## Roadmap
