@@ -54,7 +54,7 @@ Run Bot
 
 ## KEY API Discord
 
-Please modify your SMTP server in server.js .
+Please modify your webhook url in server.js .
 
 server.js
 
